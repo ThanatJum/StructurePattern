@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVPv2</string>
+    <string name="testString">Test Get Data From String</string>
+
+</resources>

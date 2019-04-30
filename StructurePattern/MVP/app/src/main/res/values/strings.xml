@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVPPrattern</string>
+    <string name="loadData">Load Data</string>
+
+</resources>
